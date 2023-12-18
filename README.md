@@ -2,8 +2,9 @@
 
 <div style="display: flex; justify-content: space-between;">
 
-  <img src="https://github.com/naariman/final_web/assets/96104998/5af4fc92-2f0e-4336-8917-4779f1d21f9f" alt="Left Image" width="48%">
+  <img src="[https://github.com/naariman/final_web/assets/96104998/5af4fc92-2f0e-4336-8917-4779f1d21f9f](https://github.com/naariman/final_web/assets/96104998/6b3aac11-0892-4a92-8ca1-3d175acb4814)" alt="Left Image" width="48%">
   <img src="https://github.com/naariman/final_web/assets/96104998/df89d85f-2a6a-4d70-9c5d-81001e9bf6b7" alt="Right Image" width="48%">
+
 
 </div>
 
